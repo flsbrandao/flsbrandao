@@ -1,4 +1,14 @@
-### Hi there 👋
+### Eae meu Padawan 👋
+
+Me chamo Felipe Brandão 👨‍💻
+
+Sou desenvolvedor backend, trabalho com desenvolvimento WEB há mais de 2 anos.💻
+
+Gosto de aprender coisas novas, enfrentar desafios, buscanvo evoluir pessoal e profissionalmente.
+
+📫 Como me encontrar:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandaofelipe/)](https://www.linkedin.com/in/brandaofelipe/)
 
 <!--
 **flsbrandao/flsbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
