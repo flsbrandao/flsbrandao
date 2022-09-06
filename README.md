@@ -4,7 +4,7 @@ Me chamo Felipe Brandão 👨‍💻
 
 Sou desenvolvedor backend, trabalho com desenvolvimento WEB há mais de 2 anos.💻
 
-Gosto de aprender coisas novas, enfrentar desafios, buscanvo evoluir pessoal e profissionalmente.
+Gosto de aprender coisas novas, enfrentar desafios, buscando evoluir pessoal e profissionalmente.
 
 📫 Como me encontrar:
 
